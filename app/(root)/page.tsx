@@ -3,8 +3,8 @@ import { Button } from "@/components/ui/button"
 export default function Home() {
   return (
    <div>
-    <h1>Ashish kumar</h1>
-    <Button>ashish</Button>
+    {/* <h1>Ashish kumar</h1>
+    <Button>ashish</Button> */}
    </div>
   )
 }
