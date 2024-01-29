@@ -2,8 +2,10 @@ import React from 'react'
 
 const NavItem = () => {
   return (
-    <div>
-      <h1>ashish</h1>
+    <div className='flex gap-5'>
+      <h1>Home</h1>
+      <h1>About</h1>
+      <h1>Events</h1>
     </div>
   )
 }

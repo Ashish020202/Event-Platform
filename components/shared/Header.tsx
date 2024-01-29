@@ -12,7 +12,7 @@ const Header = () => {
       <header className='wrapper'>
         <div className='flex justify-between'>
             <Link href={"/"} className='w-36'>
-                <img src="/assets/images/logo.svg" width={138} height={38} alt="eventee logo" />
+                <img src="/assets/images/logo.svg" width={138} height={38} alt="eventee logo"/>
             </Link>
 
             <SignedIn>
